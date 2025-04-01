@@ -1,4 +1,4 @@
-# Microbiome Contamination Analysis
+# Lung Microbiome Analysis
 
 ## Project Overview
 
